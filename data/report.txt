@@ -1,0 +1,85 @@
+================================================================
+     RAPE CRISIS CENTER RESPONSE TIME SIMULATOR — FULL REPORT
+================================================================
+Generated  : Sat Jun 27 13:14:48 2026
+Victims    : 1
+Centers    : 4
+================================================================
+
+----------------------------------------------------------------
+SECTION 1 — VICTIM DETAILS
+----------------------------------------------------------------
+
+Victim #1
+  Location      : Zone (9, 9)
+  Time of Day   : 11:30 PM (night)
+  Distress Level: 5/10
+  Status        : helped
+
+----------------------------------------------------------------
+SECTION 2 — CRISIS CENTER STATUS
+----------------------------------------------------------------
+
+Center #1 — Shakti Crisis Center
+  Location      : Zone (1, 8)
+  Staff Left    : 5
+  Vehicles Left : 3
+  Total Served  : 0 victims
+
+Center #2 — Nirbhaya Help Center
+  Location      : Zone (4, 2)
+  Staff Left    : 4
+  Vehicles Left : 2
+  Total Served  : 0 victims
+
+Center #3 — Aasha Foundation
+  Location      : Zone (7, 6)
+  Staff Left    : 5
+  Vehicles Left : 3
+  Total Served  : 1 victims
+
+Center #4 — Suraksha Care Center
+  Location      : Zone (0, 4)
+  Staff Left    : 3
+  Vehicles Left : 2
+  Total Served  : 0 victims
+
+----------------------------------------------------------------
+SECTION 3 — RESPONSE RESULTS (PER VICTIM)
+----------------------------------------------------------------
+
+Victim #1 Response
+  Victim Zone   : (9, 9)
+  Center Reached: Aasha Foundation
+  Center Zone   : (7, 6)
+  Route Distance: 5 zones
+  Response Time : 46.2 minutes
+  Team Dispatch : Counselor + Medical Support
+  Score         : 5/100
+  Outcome       : CRITICAL   — Severe delay, immediate escalation needed
+  Route Taken   : (9,9) (8,9) (7,9) (7,8) (7,7) (7,6) 
+
+----------------------------------------------------------------
+SECTION 4 — OVERALL SUMMARY
+----------------------------------------------------------------
+
+  Total Victims Handled : 1
+  Avg Response Time     : 46.2 minutes
+  Avg Score             : 5/100
+  System Rating         : NEEDS IMPROVEMENT
+
+----------------------------------------------------------------
+SECTION 5 — SAFETY RECOMMENDATIONS
+----------------------------------------------------------------
+
+  >> Install emergency call points in every danger zone
+  >> Increase crisis center staff during peak hours
+  >> Add police patrol routes near all danger zones
+  >> Create fast-response corridors between centers
+  >> Install CCTV in all danger zones
+  >> Train community volunteers as first-responders
+  >> Double patrol units between 10PM - 6AM
+
+================================================================
+                    END OF REPORT
+================================================================
